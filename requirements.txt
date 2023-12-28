@@ -1,5 +1,6 @@
 backports.entry-points-selectable==1.1.0
 distlib==0.3.2
+python==3.12.0
 filelock==3.0.12
 gunicorn==20.1.0
 nltk==3.6.2
